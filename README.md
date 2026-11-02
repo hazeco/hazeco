@@ -1,11 +1,21 @@
-# Hi there 👋, I'm Khetsophon (เขต)
+![Khetsophon Ainautoon](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,FF8C42,E9407A&height=220&section=header&text=Khetsophon%20Ainautoon&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Founder&descAlignY=58&descAlign=50)
 
-**Full-Stack Developer & Founder** — building edge-first web platforms from Bangkok.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB347&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Founder;Systems+thinker%2C+AI-native+builder;Building+edge-first+web+platforms" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bangkok%2C_Thailand-FFB347?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/GPAX-3.90-FFB347?style=for-the-badge" alt="GPAX" />
+  <img src="https://img.shields.io/badge/Open_to-SWE_Internships_2027-FFB347?style=for-the-badge" alt="Open to SWE internships 2027" />
+</p>
+
+Hi there 👋 — I'm **Khetsophon (เขต)**, Full-Stack Developer & Founder building edge-first web platforms from Bangkok.
 
 *นักศึกษาวิทยาการคอมพิวเตอร์ ม.ศรีปทุม — สร้างเว็บแบบ edge-first จากกรุงเทพฯ*
 
 - 🎓 Third-year Computer Science student at Sripatum University (GPAX 3.90), expected 2028
-- 🚀 Founder of Vennflare (in development)
+- 🚀 Founder — Stealth Startup (in development)
 - 💻 Freelance developer — shipped production systems for paying clients
 - 🎯 Open to SWE internships (2027 cycle) & freelance projects
 - 🌐 Portfolio: https://portfolio.hazeco-d2a.workers.dev/
@@ -36,6 +46,20 @@ Grouped by evidence from real repos — no padding. If it's listed, there's a pr
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,dotnet,html,css,react,nextjs,vite,tailwind,astro,bootstrap,nodejs,express,postgres,mysql,sqlite,prisma,supabase,redis,cloudflare,workers,docker,vercel,git,github,vscode,figma,postman,bash)](https://skillicons.dev)
 
+<!-- devicons: icons skillicons doesn't have, same set the portfolio website uses -->
+<p>
+  <img src="https://devicons.io/devicons/icons/hono.svg" height="40" alt="Hono" />
+  <img src="https://devicons.io/devicons/icons/shadcn-ui.svg" height="40" alt="shadcn/ui" />
+  <img src="https://devicons.io/devicons/icons/neon-icon.svg" height="40" alt="Neon" />
+  <img src="https://devicons.io/devicons/icons/drizzle-orm.svg" height="40" alt="Drizzle ORM" />
+  <img src="https://devicons.io/devicons/icons/upstash-icon.svg" height="40" alt="Upstash" />
+  <img src="https://devicons.io/devicons/icons/nginx.svg" height="40" alt="Nginx" />
+  <img src="https://devicons.io/devicons/icons/claude-icon.svg" height="40" alt="Claude" />
+  <img src="https://devicons.io/devicons/icons/google-gemini.svg" height="40" alt="Gemini" />
+  <img src="https://devicons.io/devicons/icons/github-copilot.svg" height="40" alt="GitHub Copilot" />
+  <img src="https://devicons.io/devicons/icons/google-antigravity-icon.svg" height="40" alt="Antigravity" />
+</p>
+
 - **Languages:** TypeScript, JavaScript, Java, C# (.NET 10), SQL, HTML, CSS
 - **Frontend:** React, Next.js, Vinext, Vite, Tailwind CSS, ASP.NET Core MVC, Astro, Bootstrap, shadcn/ui
 - **Backend:** Node.js, Express, Hono, Postman
@@ -54,3 +78,5 @@ Grouped by evidence from real repos — no padding. If it's listed, there's a pr
 
 ![Khet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazeco&show_icons=true&bg_color=0A0912&title_color=FFB347&icon_color=FFB347&text_color=E6E0F5)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazeco&layout=compact&bg_color=0A0912&title_color=FFB347&text_color=E6E0F5)
+
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,FF8C42,E9407A&height=120&section=footer)
