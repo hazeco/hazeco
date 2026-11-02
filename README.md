@@ -1,4 +1,4 @@
-![Khetsophon Ainautoon](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE066,FFD43B,FAB005&height=220&section=header&text=Khetsophon%20Ainautoon&fontSize=48&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20Founder&descColor=1A1A1A&descAlignY=58&descAlign=50)
+![Khetsophon Ainautoon](https://capsule-render.vercel.app/api?type=waving&color=FFD43B&height=220&section=header&text=Khetsophon%20Ainautoon&fontSize=48&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20Founder&descColor=1A1A1A&descAlignY=58&descAlign=50)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangkok%2C_Thailand-FFB347?style=for-the-badge" alt="Location" />
@@ -70,4 +70,4 @@ Grouped by evidence from real repos — no padding. If it's listed, there's a pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khetsophon-ainautoon-0172542b6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khetsophonainautoon@gmail.com)
 
-![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE066,FFD43B,FAB005&height=120&section=footer)
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=FFD43B&height=120&section=footer)
