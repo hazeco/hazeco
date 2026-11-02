@@ -1,8 +1,4 @@
-![Khetsophon Ainautoon](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,FF8C42,E9407A&height=220&section=header&text=Khetsophon%20Ainautoon&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Founder&descAlignY=58&descAlign=50)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB347&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Founder;Systems+thinker%2C+AI-native+builder;Building+edge-first+web+platforms" alt="Typing animation" />
-</p>
+![Khetsophon Ainautoon](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,FFC46B,FF8C42&height=220&section=header&text=Khetsophon%20Ainautoon&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20Founder&descAlignY=58&descAlign=50)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangkok%2C_Thailand-FFB347?style=for-the-badge" alt="Location" />
@@ -74,9 +70,4 @@ Grouped by evidence from real repos — no padding. If it's listed, there's a pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khetsophon-ainautoon-0172542b6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khetsophonainautoon@gmail.com)
 
-## GitHub Stats
-
-![Khet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazeco&show_icons=true&bg_color=0A0912&title_color=FFB347&icon_color=FFB347&text_color=E6E0F5)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazeco&layout=compact&bg_color=0A0912&title_color=FFB347&text_color=E6E0F5)
-
-![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,FF8C42,E9407A&height=120&section=footer)
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,FFC46B,FF8C42&height=120&section=footer)
