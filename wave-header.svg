@@ -7,7 +7,9 @@
       <stop offset="100%" stop-color="#5227FF"/>
     </linearGradient>
   </defs>
-  <path d="M0 0 H1200 V170 C1100 145, 1000 195, 900 170 C800 145, 700 195, 600 170 C500 145, 400 195, 300 170 C200 145, 100 195, 0 170 Z" fill="url(#g)"/>
+  <path d="M0 0 H1200 V170 C1100 145, 1000 195, 900 170 C800 145, 700 195, 600 170 C500 145, 400 195, 300 170 C200 145, 100 195, 0 170 Z" fill="url(#g)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" values="M0 0 H1200 V170 C1100 145, 1000 195, 900 170 C800 145, 700 195, 600 170 C500 145, 400 195, 300 170 C200 145, 100 195, 0 170 Z;M0 0 H1200 V170 C1100 195, 1000 145, 900 170 C800 195, 700 145, 600 170 C500 195, 400 145, 300 170 C200 195, 100 145, 0 170 Z;M0 0 H1200 V170 C1100 145, 1000 195, 900 170 C800 145, 700 195, 600 170 C500 145, 400 195, 300 170 C200 145, 100 195, 0 170 Z"/>
+  </path>
   <text x="600" y="82" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Khetsophon Ainautoon</text>
   <text x="600" y="122" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#FFFFFF" text-anchor="middle">Full-Stack Developer and Founder</text>
 </svg>
