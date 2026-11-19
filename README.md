@@ -33,7 +33,7 @@ Recent work spans a workforce attendance platform, a serverless hotel back-offic
 | [KeyStay](https://github.com/csi204/keystay) | Boutique-hotel back-office microservices — 100+ REST APIs with a transactional outbox over QStash. TypeScript, Hono, Turborepo, Cloudflare Workers, D1, KV, R2. |
 | [FriendHouse](https://github.com/hazeco/CSI402) | Figure-shop e-commerce on a 15-table MySQL schema with atomic pre-orders, promotions and points. C# (.NET 10), ASP.NET Core MVC, Entity Framework Core, MySQL, Razor, Tailwind CSS. |
 | [EasyCheck](https://github.com/EasyChecks/easychecks) | Workforce attendance platform with GPS + camera check-in. Next.js, Express, TypeScript, Prisma, PostgreSQL, Supabase, Docker. |
-| MusicGear | Music-gear e-commerce shop — coursework team project; my role: PM + infrastructure. |
+| [MusicGear](https://github.com/csi204/musicgear) | Music-gear e-commerce shop — coursework team project; my role: PM + infrastructure. |
 | [Fly Calcium Band](https://fly-calcium-band.fly-calcium-band.workers.dev) | Passion project — turns fly-brain connectome data into MIDI music. |
 
 ## Tech Stack
